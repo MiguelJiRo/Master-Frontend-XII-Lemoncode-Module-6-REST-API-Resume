@@ -20,4 +20,4 @@
 [Opcional](https://github.com/MiguelJiRo/Master-Frontend-XII-Lemoncode-Module-6-REST-API-Opcional)
 
 ### Ejercicio 1 y Ejercicio 2
-[Ejercicio 1/2](https://github.com/MiguelJiRo/Master-Frontend-XII-Lemoncode-Module-6-REST-API)
+[Ejercicio 1 y 2](https://github.com/MiguelJiRo/Master-Frontend-XII-Lemoncode-Module-6-REST-API)
